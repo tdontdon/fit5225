@@ -1,0 +1,8 @@
+# requirements.txt
+ultralytics
+supervision
+opencv-python-headless 
+numpy
+Boto3
+requests
+
